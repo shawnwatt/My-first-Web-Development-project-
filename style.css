@@ -1,0 +1,253 @@
+ body {
+     margin: 0;
+     padding: 0;
+     font-family: poppins;
+     background-color: #FFFFFF;
+ }
+ 
+ * {
+     margin: 0;
+     padding: 0;
+ }
+ 
+ .section-2 {
+     width: 100%;
+     margin: auto;
+ }
+ 
+ img {
+     width: 300px;
+     height: 200px;
+     box-shadow: 10px 5px 10px -1px;
+     border: 1px;
+     border-style: solid;
+     background-color: gray;
+ }
+ 
+ .img-2 {
+     width: 200px;
+     height: 50px;
+     margin: 10px;
+     float: right;
+     box-shadow: none;
+ }
+ 
+ nav {
+     margin: auto;
+     float: left;
+ }
+ 
+ li {
+     display: inline-block;
+     padding: 20px;
+ }
+ 
+ .background-image {
+     background-image: url(images/gag.jpg);
+     background-size: contain;
+ }
+ 
+ h1 {
+     text-align: center;
+     font-weight: bolder;
+     font-size: 50px;
+     font-family: 'Bebas Neue', cursive;
+ }
+ 
+ p {
+     text-align: center;
+ }
+ 
+ .head::after {
+     content: '';
+     display: table;
+     clear: both;
+ }
+ 
+ nav ul {
+     margin: 0;
+ }
+ 
+ a {
+     text-decoration: none;
+     color: #000000;
+ }
+ 
+ input {
+     display: block;
+     width: 400px;
+     height: 40px;
+     margin-top: 30px;
+     margin: auto;
+     margin-bottom: 40px;
+ }
+ 
+ textarea {
+     width: 400px;
+     height: 300px;
+ }
+ 
+ button {
+     width: 60px;
+     margin: auto;
+ }
+ 
+ .input-1 {
+     width: 300px;
+     height: 30px;
+     float: right;
+     margin-top: 30px;
+     margin-right: 10px;
+     background-color: #FFFFFF;
+     color: #000000;
+ }
+ 
+ .contact-container {
+     width: 20%;
+     margin: auto;
+ }
+ 
+ .fa-search {
+     color: #000000;
+     float: right;
+     margin-top: 30px;
+     padding-right: 10px;
+ }
+ 
+ .slogan {
+     font-size: 50px;
+     font-family: poppins;
+     color: #FFFFFF;
+     text-align: center;
+     line-height: 500px;
+ }
+ 
+ .container {
+     margin-top: 30px;
+     width: 10px;
+ }
+ 
+ .shadow {
+     box-shadow: 10px 10px 10px 10px;
+     width: 100%;
+ }
+ 
+ .image-container {
+     display: flex;
+     margin-left: 60px;
+ }
+ 
+ .watch-container {
+     width: 33%;
+ }
+ 
+ .watch-container-2 {
+     width: 33%
+ }
+ 
+ .watch-container-3 {
+     width: 33%;
+ }
+ 
+ .watch-container-4 {
+     width: 33%;
+ }
+ 
+ .glasses-container {
+     width: 33%;
+ }
+ 
+ .glasses-two {
+     width: 33%
+ }
+ 
+ .glasses.three {
+     width: 33%;
+ }
+ 
+ .glasses-four {
+     width: 33%;
+     padding-left: 60px;
+ }
+ 
+ h4 {
+     margin-top: 30px;
+     text-align: center;
+     width: 10px;
+ }
+ 
+ h2 {
+     text-align: center;
+     margin-top: 30px;
+     font-size: 40px;
+ }
+ 
+ h3 {
+     float: left;
+     color: #FFFFFF;
+ }
+ 
+ .email {
+     color: #FFFFFF;
+     float: right;
+ }
+ 
+ .h2-2 {
+     color: #FFFFFF;
+     font-family: 'Bebas Neue', cursive;
+ }
+ 
+ .watch-container {
+     width: 33%;
+ }
+ 
+ .section-2 {
+     width: 100%;
+     background-image: url(images/dark.jpg);
+     margin: auto;
+ }
+ 
+ .social-media {
+     font-size: 40px;
+     text-align: center;
+ }
+ 
+ .fa-facebook-square {
+     color: #3b5998;
+     padding: 20px;
+ }
+ 
+ .fa-instagram {
+     color: #e4405f;
+     padding: 20px
+ }
+ 
+ .fa-twitter-square {
+     color: #55acee;
+     padding: 20px;
+ }
+ 
+ .fa-facebook-square:hover {
+     transform: scale(1.3);
+ }
+ 
+ .fa-twitter-square:hover {
+     transform: scale(1.3);
+ }
+ 
+ .fa-instagram:hover {
+     transform: scale(1.3);
+ }
+ 
+ button:hover {
+     transform: scale(1.1);
+ }
+ 
+ .li-sec-2 {
+     display: block;
+     font-size: 20px;
+ }
+ 
+ .copyright {
+     text-align: center;
+ }
